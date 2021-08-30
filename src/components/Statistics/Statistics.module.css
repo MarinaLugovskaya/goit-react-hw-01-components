@@ -1,0 +1,23 @@
+.statistics {
+  outline: none;
+  border: none;
+  max-width: 400px;
+  border: 1px solid green;
+}
+.statList {
+  display: flex;
+  padding: 0;
+  margin: 0;
+}
+.title {
+  text-align: center;
+  display: block;
+}
+.label {
+  display: flex;
+}
+.item {
+  list-style: none;
+  margin-left: 40px;
+  padding: 0;
+}

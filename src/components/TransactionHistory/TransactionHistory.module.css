@@ -1,0 +1,7 @@
+.transactionHistory {
+  background-color: rgb(207, 253, 238);
+  width: 400px;
+}
+td {
+  border: 1px solid rgb(125, 224, 191);
+}
